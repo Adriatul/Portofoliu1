@@ -3,7 +3,7 @@ html {
     color: blue;
 }
 
-boddy {
+body {
     display: grid;
     place-items: center;
     margin 0;
@@ -32,8 +32,5 @@ header {
     margin: o lem 0 0;
     border-radius:50%;
     .TitlulPaginii {
-        display: block font-size: clamp {
-            2rem .6vw
-        }
+        display: block font-size: clamp {2rem ,6vw}
     }
-}
