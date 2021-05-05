@@ -1,0 +1,39 @@
+html {
+    background: aquamarine;
+    color: blue;
+}
+
+boddy {
+    display: grid;
+    place-items: center;
+    margin 0;
+    font-family: Inter, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.Container {
+    width: 90%;
+    margin: 2vh auto;
+    background: rgba(79, 109, 245, 0.8);
+    padding: 2rem;
+    border-radius: 2rem;
+    font-size: clamp(1rem, 2wv, 2rem, );
+    line-height: 1.5em;
+}
+
+header {
+    .Avatar {
+        display: block;
+        float: left;
+        width: 100px;
+        height: auto;
+    }
+    margin: o lem 0 0;
+    border-radius:50%;
+    .TitlulPaginii {
+        display: block font-size: clamp {
+            2rem .6vw
+        }
+    }
+}
